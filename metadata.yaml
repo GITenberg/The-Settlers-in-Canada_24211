@@ -1,0 +1,40 @@
+_repo: The-Settlers-in-Canada_24211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, Captain
+    - Marryat, Kapitein
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: "The Settlers in Canada is a children's novel written by Frederick Marryat,\
+  \ and published in 1844. The novel is set in the wilderness of Upper Canada in the\
+  \ 1790s. It describes the adventures of an immigrant family who settle near Lake\
+  \ Ontario, despite the threats from the native people and wild animals.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24211'
+  wikidata: Q7763415
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Pioneers -- Fiction'
+- !lcc 'PR'
+title: The Settlers in Canada
+url: http://www.gutenberg.org/ebooks/24211
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Settlers_in_Canada
